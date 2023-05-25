@@ -60,8 +60,10 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![output](https://user-images.githubusercontent.com/118707073/239205264-fd103b5b-87f5-4259-a963-9d31deffc8b5.png)
+
+### Name: ARUN KUMAR SUKDEV CHAVAN
+### Register Number: 212222230013
 
 ## Result: 
-### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
